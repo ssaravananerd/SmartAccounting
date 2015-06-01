@@ -1,0 +1,9 @@
+D:\GitHub Repository\SmartAccounting\SmartAccounting\Accounting.DAL.Interface\obj\Debug\Accounting.DAL.Interface.csprojResolveAssemblyReference.cache
+D:\GitHub Repository\SmartAccounting\SmartAccounting\Accounting.DAL.Interface\bin\Debug\Accounting.DAL.Interface.dll
+D:\GitHub Repository\SmartAccounting\SmartAccounting\Accounting.DAL.Interface\bin\Debug\Accounting.DAL.Interface.pdb
+D:\GitHub Repository\SmartAccounting\SmartAccounting\Accounting.DAL.Interface\bin\Debug\Accounting.Model.dll
+D:\GitHub Repository\SmartAccounting\SmartAccounting\Accounting.DAL.Interface\bin\Debug\MongoDB.Bson.dll
+D:\GitHub Repository\SmartAccounting\SmartAccounting\Accounting.DAL.Interface\bin\Debug\Accounting.Model.pdb
+D:\GitHub Repository\SmartAccounting\SmartAccounting\Accounting.DAL.Interface\bin\Debug\MongoDB.Bson.xml
+D:\GitHub Repository\SmartAccounting\SmartAccounting\Accounting.DAL.Interface\obj\Debug\Accounting.DAL.Interface.dll
+D:\GitHub Repository\SmartAccounting\SmartAccounting\Accounting.DAL.Interface\obj\Debug\Accounting.DAL.Interface.pdb

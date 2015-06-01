@@ -1,0 +1,4 @@
+D:\GitHub Repository\SmartAccounting\SmartAccounting\Accounting.ServiceProxy\bin\Debug\Accounting.ServiceProxy.dll
+D:\GitHub Repository\SmartAccounting\SmartAccounting\Accounting.ServiceProxy\bin\Debug\Accounting.ServiceProxy.pdb
+D:\GitHub Repository\SmartAccounting\SmartAccounting\Accounting.ServiceProxy\obj\Debug\Accounting.ServiceProxy.dll
+D:\GitHub Repository\SmartAccounting\SmartAccounting\Accounting.ServiceProxy\obj\Debug\Accounting.ServiceProxy.pdb

@@ -1,0 +1,4 @@
+D:\GitHub Repository\SmartAccounting\SmartAccounting\Utilities\bin\Debug\Utilities.dll
+D:\GitHub Repository\SmartAccounting\SmartAccounting\Utilities\bin\Debug\Utilities.pdb
+D:\GitHub Repository\SmartAccounting\SmartAccounting\Utilities\obj\Debug\Utilities.dll
+D:\GitHub Repository\SmartAccounting\SmartAccounting\Utilities\obj\Debug\Utilities.pdb

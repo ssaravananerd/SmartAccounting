@@ -1,0 +1,4 @@
+D:\GitHub Repository\SmartAccounting\SmartAccounting\Acconting.Service\bin\Debug\Acconting.Service.dll
+D:\GitHub Repository\SmartAccounting\SmartAccounting\Acconting.Service\bin\Debug\Acconting.Service.pdb
+D:\GitHub Repository\SmartAccounting\SmartAccounting\Acconting.Service\obj\Debug\Acconting.Service.dll
+D:\GitHub Repository\SmartAccounting\SmartAccounting\Acconting.Service\obj\Debug\Acconting.Service.pdb

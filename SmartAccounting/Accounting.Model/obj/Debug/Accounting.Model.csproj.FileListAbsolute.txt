@@ -1,0 +1,6 @@
+D:\GitHub Repository\SmartAccounting\SmartAccounting\Accounting.Model\bin\Debug\Accounting.Model.dll
+D:\GitHub Repository\SmartAccounting\SmartAccounting\Accounting.Model\bin\Debug\Accounting.Model.pdb
+D:\GitHub Repository\SmartAccounting\SmartAccounting\Accounting.Model\bin\Debug\MongoDB.Bson.dll
+D:\GitHub Repository\SmartAccounting\SmartAccounting\Accounting.Model\bin\Debug\MongoDB.Bson.xml
+D:\GitHub Repository\SmartAccounting\SmartAccounting\Accounting.Model\obj\Debug\Accounting.Model.dll
+D:\GitHub Repository\SmartAccounting\SmartAccounting\Accounting.Model\obj\Debug\Accounting.Model.pdb

@@ -1,0 +1,8 @@
+D:\GitHub Repository\SmartAccounting\SmartAccounting\EasyAccounting\bin\Debug\EasyAccounting.exe.config
+D:\GitHub Repository\SmartAccounting\SmartAccounting\EasyAccounting\bin\Debug\EasyAccounting.exe
+D:\GitHub Repository\SmartAccounting\SmartAccounting\EasyAccounting\bin\Debug\EasyAccounting.pdb
+D:\GitHub Repository\SmartAccounting\SmartAccounting\EasyAccounting\obj\Debug\EasyAccounting.csprojResolveAssemblyReference.cache
+D:\GitHub Repository\SmartAccounting\SmartAccounting\EasyAccounting\obj\Debug\EasyAccounting.Properties.Resources.resources
+D:\GitHub Repository\SmartAccounting\SmartAccounting\EasyAccounting\obj\Debug\EasyAccounting.csproj.GenerateResource.Cache
+D:\GitHub Repository\SmartAccounting\SmartAccounting\EasyAccounting\obj\Debug\EasyAccounting.exe
+D:\GitHub Repository\SmartAccounting\SmartAccounting\EasyAccounting\obj\Debug\EasyAccounting.pdb
